@@ -1,0 +1,5 @@
+token: your_personal_access_token
+repositories:
+  - https://github.com/user/repo1.git
+  - https://github.com/user/repo2.git
+  # Add more repositories here as needed
